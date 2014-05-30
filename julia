@@ -1,0 +1,4 @@
+git add julia
+git commit -m "tugas imk"
+git push
+git pull
